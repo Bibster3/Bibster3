@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working on <br>Building full-stack web applications with React, TypeScript, Vite, Tailwind, and Supabase. <br>Currently finishing a modular platform that generates personalized children's coloring books.<br><br>👯 I’m looking to collaborate on <br>Frontend projects involving React, modern UI systems, performance optimization, or conversion-focused landing pages.<br><br>🌱 I’m currently learning <br>Advanced React patterns, performance optimization, backend integrations with Supabase, and scalable frontend architecture.<br><br>⚡ Fun fact <br>Before focusing on frontend engineering, I worked in Unity game development and marketing, which gives me a strong mix of technical and product thinking.
+🔭 I’m currently working on a modular platform that generates personalized children's coloring books.<br><br>👯 I’m looking to collaborate on <br>Frontend projects involving React, modern UI systems, performance optimization, or conversion-focused landing pages.<br><br>🌱 I’m currently learning <br>Advanced React patterns, performance optimization, backend integrations with Supabase, and scalable frontend architecture.<br><br>⚡ Fun fact <br>Before focusing on frontend engineering, I worked in Unity game development and marketing, which gives me a strong mix of technical and product thinking.
 
 ## 🌐 Find me on:
 
